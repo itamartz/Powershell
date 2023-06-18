@@ -1,1 +1,1 @@
-## Powershell training from zero to DSC
+Powershell training from zero to DSC
