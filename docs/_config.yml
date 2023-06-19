@@ -1,2 +1,7 @@
 remote_theme: chrisrhymes/bulma-clean-theme
-
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "page"
