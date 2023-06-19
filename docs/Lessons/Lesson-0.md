@@ -26,3 +26,16 @@ public class Car
     public string Model { get; set; }
 }
 ```
+And if I want to create a Object from this blue print.
+```cs
+Car Tesla = new Car();
+```
+And if I want to get model from this Car object
+
+```cs
+Tesla.Model
+'''
+
+this is in a nutshell dot net.
+
+### Powershell return Object(s) so you can use the OOB to deal with the result of running a CmdLet in Powershell
