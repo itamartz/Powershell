@@ -1,5 +1,5 @@
 - name: Lessons
-  link: /Lessons/
+  link: /#
   dropdown: 
     - name: Lesson 0
       link: /Lessons/Lesson-0
