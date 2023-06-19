@@ -5,7 +5,6 @@ layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
-
 ## Object Oriented Programming - OOP
 Before we can start learn the Powershell language, we need to learn the basic.
 
