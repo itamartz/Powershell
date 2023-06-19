@@ -3,5 +3,7 @@
   dropdown: 
     - name: Lesson 0
       link: /Lessons/Lesson-0
+    - name: CmdLet
+      link: /Lessons/CmdLet
     - name: Lesson 1
       link: /Lessons/Lesson-1
