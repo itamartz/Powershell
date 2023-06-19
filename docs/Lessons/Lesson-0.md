@@ -34,7 +34,7 @@ And if I want to get model from this Car object
 
 ```cs
 Tesla.Model
-'''
+```
 
 this is in a nutshell dot net.
 
