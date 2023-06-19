@@ -1,9 +1,9 @@
-# Lesson-0 - H1
-## Lesson-0 - H2
+---
+title: Bulma Clean Theme
+subtitle: This is the demo site for Bulma Clean Theme
+layout: page
+callouts: home_callouts
+show_sidebar: true
+---
 
-### Lesson-0 - H4
-#### Lesson-0 - H5
-
-###### Lesson-0 - H6
-This is a paragraph
-
+# Bulma Clean Theme demo website
