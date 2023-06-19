@@ -3,7 +3,7 @@ title: Lesson 0
 subtitle: Before we start with Powershell
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 ## Object Oriented Programming - OOP
 Before we can start learn the Powershell language, we need to learn the basic.
