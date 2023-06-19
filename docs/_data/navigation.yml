@@ -1,9 +1,12 @@
+- name: Vocabulary
+  link: /#
+  dropdown: 
+    - name: CmdLet
+      link: /Lessons/CmdLet
 - name: Lessons
   link: /#
   dropdown: 
     - name: Lesson 0
       link: /Lessons/Lesson-0
-    - name: CmdLet
-      link: /Lessons/CmdLet
     - name: Lesson 1
       link: /Lessons/Lesson-1
