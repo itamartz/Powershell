@@ -3,6 +3,7 @@ title: Lesson 0
 subtitle: Before we start with Powershell
 layout: page
 callouts: home_callouts
+hide_hero: true
 show_sidebar: false
 ---
 ## Object Oriented Programming - OOP
