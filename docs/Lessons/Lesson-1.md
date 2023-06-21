@@ -4,7 +4,7 @@ subtitle: Powershell versions
 layout: page
 hide_hero: false
 show_sidebar: false
-toc: true
+menubar_toc: true
 ---
 ## Powershell versions
 Powershell version is devided in to tow sections
