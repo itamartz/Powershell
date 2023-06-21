@@ -17,8 +17,8 @@ Server 2016 and above have the Version 5.1, no more upgrades for Windows Powersh
 ### Powershell Core
 Powershell core is the ongoing version we use.
 We can install the Powershell Core on Windows or Linux.\
-Currently the Powershell Core version is 7.x (you can see the actual version in [Powershell Github](https://github.com/PowerShell/PowerShell)){:target="_blank"}
+Currently the Powershell Core version is 7.x (you can see the actual version in [Powershell Github](https://github.com/PowerShell/PowerShell))
 
 ### Install Powershell
-Use the [Powershell Github{_ext}](https://github.com/PowerShell/PowerShell){:target="_blank"} To install on your system.\
+Use the [Powershell Github](https://github.com/PowerShell/PowerShell) To install on your system.\
 Powershell Core and Microsoft Powershell can both run on the same system.
