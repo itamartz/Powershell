@@ -20,5 +20,5 @@ We can install the Powershell Core on Windows or Linux.\
 Currently the Powershell Core version is 7.x (you can see the actual version in [Powershell Github](https://github.com/PowerShell/PowerShell))
 
 ### Install Powershell
-Use the [Powershell Github](https://github.com/PowerShell/PowerShell) To install on your system.
+Use the [Powershell Github](https://github.com/PowerShell/PowerShell) To install on your system.\
 Powershell Core and Microsoft Powershell can both run on the same system.
