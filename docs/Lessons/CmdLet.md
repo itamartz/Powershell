@@ -23,3 +23,14 @@ And if I run this command I can group all the type of commands I have in my syst
 Get-Command | Group-Object -Property CommandType
 ```
 ![image](https://github.com/itamartz/Powershell/assets/10198823/36b2b031-7cba-4018-9d34-69748ed61580)
+
+In the Image above we can see the Alias in the name Column.\
+The Alias is as the name sad alias to another command.\
+We have an alias becuse we want to give the "customer" the beset experiment he need.\
+For example: the Alias CD, LS is alias for Get-ChildItem
+
+You can see all the alias you have with this CmdLet.
+```powershell
+Get-Alias
+```
+
