@@ -9,5 +9,5 @@ show_sidebar: false
 ### The beginner training for powershell
 I will try to do my best to explain every thing I know about Powershell, from ps1,ps1m,ps1xml etc...
 
-#### for question please use the Github Pull requests
+#### For question please use the Github Pull requests
 [Pull requests](https://github.com/itamartz/Powershell/pulls)
