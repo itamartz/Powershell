@@ -3,6 +3,8 @@
   dropdown: 
     - name: CmdLet
       link: /Lessons/CmdLet
+    - name: IDE
+      link: /Lessons/IDE      
 - name: Lessons
   link: /#
   dropdown: 
