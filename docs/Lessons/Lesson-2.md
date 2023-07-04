@@ -33,3 +33,14 @@ On the Offline computer you should run this command
 ```powershell
 Update-Help -SourcePath C:\temp\OfflineUpdates
 ```
+
+## Using Powershell Help
+Lets search command to restart computer.
+we using the help  command like so
+
+```powershell
+help *restart*
+```
+
+This will return the result of all command that have the restart in there help Or in the Cmdlet name
+
