@@ -16,14 +16,14 @@ Get-Service | Get-Member
 ![Alt text](image-2.png)
 
 Lets explain this image:\
-The first line sad we using command that return Object of type: **System.ServiceProcess.ServiceController.**\
+The first line says we using a command that returns an Object of type: **System.ServiceProcess.ServiceController.**\
 This is a Dot net object so if we want we can open [MSDN](https://learn.microsoft.com/en-us/dotnet/api/system.serviceprocess.servicecontroller?view=dotnet-plat-ext-7.0) and read about it.
 
-The Name column is the the name of the property or the name of the method you can use.
+The Name column is the name of the property or the name of the method you can use.
 
-The MemberType explain if this is a method or property.
+The MemberType explains if this is a method or property.
 
-The definition get you the underline operation - if a properrty of type bool etc...\
-If a properrty it read only (only get;)\
-If the method need a parameter etc...
-
+The definition gets you the underline operation
+* If a property of type bool etc...\
+* If a property it read-only (only get;)\
+* If the method needs a parameter etc...
