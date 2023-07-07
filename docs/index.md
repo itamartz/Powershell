@@ -1,6 +1,6 @@
 ---
 title: Powershell training from zero to DSC
-subtitle: Powershell from the begining ti'll...
+subtitle: Powershell from the beginning ti'll...
 layout: page
 hide_hero: false
 show_sidebar: false
