@@ -26,7 +26,7 @@ Get-Command | Group-Object -Property CommandType
 
 In the Image above we can see the Alias in the name Column.\
 The Alias is as the name sad alias to another command.\
-We have an alias becuse we want to give the "customer" the beset experiment he need.\
+We have an alias because we want to give the "customer" the beset experiment he need.\
 For example: the Alias CD, LS is alias for Get-ChildItem
 
 You can see all the alias you have with this CmdLet.

@@ -6,11 +6,11 @@ hide_hero: false
 show_sidebar: false
 ---
 ## Powershell Help
-Powershell help is a powerfull tools, it's lets you the option to search the command you want, what parameters the function need etc..
+Powershell help is a powerful tools, it's lets you the option to search the command you want, what parameters the function need etc..
 
 ## Help versions
 In the begging of Powershell, we have help with our module, CmdLet.\
-Starting from version 3 Microsoft decide to seperate the help from the module, this seperations give as the ability to fix the help and not the module, servers does not have help etc..
+Starting from version 3 Microsoft decide to separate the help from the module, this separations give as the ability to fix the help and not the module, servers does not have help etc..
 
 Powershell 5.1 (the last version of Windows Powershell) does not have help to the modules in the Microsoft server, you need to install the help on your local computer.
 

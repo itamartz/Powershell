@@ -6,7 +6,7 @@ hide_hero: false
 show_sidebar: false
 ---
 ## Lets Explore A Command (Cmdlet)
-After we found a commnd I need to understand how to work with the command, for that we have Get-Member.
+After we found a command I need to understand how to work with the command, for that we have Get-Member.
 
 In our example we use the Get-Service CmdLet.
 
