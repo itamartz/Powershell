@@ -16,7 +16,7 @@ Array start from the index 0, so if we want to get the value in the first cell w
 [ ][ ][ ]
 
 ## Example
-Start an array with 0 cells.\
+Start an array with 0 cells.
 ```powershell
 $array = @()
 
@@ -24,7 +24,7 @@ $array = @()
 
 Add data to the array: (In this example $item1 represent an object)\
 ```powershell
-$array += $item1\
+$array += $item1
 ```
 An we can get the data from this cell by running this command
 
