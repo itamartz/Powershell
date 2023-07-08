@@ -4,7 +4,9 @@
     - name: CmdLet
       link: /Lessons/CmdLet
     - name: IDE
-      link: /Lessons/IDE      
+      link: /Lessons/IDE
+    - name: Array
+      link: /Lessons/Array            
 - name: Lessons
   link: /#
   dropdown: 
@@ -20,3 +22,5 @@
       link: /Lessons/Lesson-4
     - name: Lesson 5
       link: /Lessons/Lesson-5
+    - name: Lesson 6
+      link: /Lessons/Lesson-6
