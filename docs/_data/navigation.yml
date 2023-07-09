@@ -6,7 +6,9 @@
     - name: IDE
       link: /Lessons/IDE
     - name: Array
-      link: /Lessons/Array            
+      link: /Lessons/Array
+    - name: DSC
+      link: /Lessons/DSC                 
 - name: Lessons
   link: /#
   dropdown: 
